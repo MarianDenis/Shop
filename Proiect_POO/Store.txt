@@ -1,0 +1,19 @@
+6
+ 11115 2 12 12 2018 2 Adria Soc
+ 11111 10 3 3 2019 2 Sprite -
+ 11122 7.5 1 12 2018 1 Nestea Ceai
+ 11112 5 3 3 2018 2 Timbark Struguri
+ 11144 7.5 10 10 2018 1 Aloe Aloe
+ 11134 5 5 5 2020 2 Giusto Ananas
+5
+ 11211 4 5 5 2019 Pui 250
+ 11213 5 2 2 2018 Pui 500
+ 11212 2.5 2 2 2018 Paprika 250
+ 11255 3 1 1 2020 Sare 300
+ 11232 5 2 2 2018 Usturoi 400
+5
+ 12123 1200 6 7 samsung gri 78
+ 12133 2500 3 4 Philips Rosu 75
+ 12122 5000 2 5 LG Violet 120
+ 12112 1000 3 6 Samsung Alb 120
+ 12111 500 2 6 LG Negru 90

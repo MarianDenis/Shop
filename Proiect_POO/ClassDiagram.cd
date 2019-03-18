@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Data" Collapsed="true">
+    <Position X="26.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACAAAAAAAAAIAAEAAIgAAAAAABAAAAAAARAAAAg=</HashCode>
+      <FileName>Alimente.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aliment" Collapsed="true">
+    <Position X="1.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACwAAAAAAAAAAgAgACAABAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Alimente.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chips" Collapsed="true">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAChAAAAAAABCBAAAAAABBAAAAAAAAAAAAAAAAAAAAY=</HashCode>
+      <FileName>Chipsuri.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Garantie" Collapsed="true">
+    <Position X="28" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACAAAAAAAAAAAAABAAAAAAAAACAAAAABAAAAAAA=</HashCode>
+      <FileName>Electrocasnice.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Electrocasnic" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAABAQABAAIAAAAAAAAAAAAAAQAQA=</HashCode>
+      <FileName>Electrocasnice.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nod" Collapsed="true">
+    <Position X="28" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAQAAAAAIAAAAAIAAAAAAAACAAAAAAAABCAAIAAAA=</HashCode>
+      <FileName>Lista.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List" Collapsed="true">
+    <Position X="26.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgBAAAAAQAAAAAgAAAARAAAAAAAAAAAAAABIBAAAI=</HashCode>
+      <FileName>Lista.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElementMeniu" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAgAAAAAAAAAAFgAAAAAAAEAAAAAgAAAAAABAA=</HashCode>
+      <FileName>meniu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Operatie" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAABAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>meniu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Meniu" Collapsed="true">
+    <Position X="23.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAABAAAAAgABAABAAAABAAQAAQAAAAAAEAAA=</HashCode>
+      <FileName>meniu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElementDespre" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>OperatiiSimple.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpAdaugareInLista" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAACAAAIAAAAAAAQ=</HashCode>
+      <FileName>OperatiiSimple.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpAfisareLista" Collapsed="true">
+    <Position X="14.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAACAAAIAAAAAAAA=</HashCode>
+      <FileName>OperatiiSimple.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpAdaugareSuc" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>OperatiiSimple.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpAfisareSucuri" Collapsed="true">
+    <Position X="17" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>OperatiiSimple.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpAfisareChipsuri" Collapsed="true">
+    <Position X="12.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>OperatiiSimple.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpAfisareTV" Collapsed="true">
+    <Position X="14.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>OperatiiSimple.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpStergereInLista" Collapsed="true">
+    <Position X="19.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAMAAAAAAAA=</HashCode>
+      <FileName>OperatiiSimple.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpCautareDupaCod" Collapsed="true">
+    <Position X="21.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAIAAAAAAAQ=</HashCode>
+      <FileName>OperatiiSimple.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpAdaugareChipsuri" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>OperatiiSimple.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpAdaugareTV" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAACAAAA=</HashCode>
+      <FileName>OperatiiSimple.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpAfisareToateProdusele" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAgAAAAAAAACAgCAAAAAAAAAAAA=</HashCode>
+      <FileName>OperatiiSimple.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Produs" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAEAAAAQAAAAEAAAATAAAAAAABAAAAAQAAAgAAA=</HashCode>
+      <FileName>Produse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suc" Collapsed="true">
+    <Position X="2.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAABYAAAAQAAABBAAEAAAACAAAAACAAAAAAQ=</HashCode>
+      <FileName>Sucuri.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Televizor" Collapsed="true">
+    <Position X="5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAEAAAASAAAAAAgEABDAECAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>televizoare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
